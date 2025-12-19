@@ -1,0 +1,10 @@
+# 🌟 JobHawk Pro
+Automated Indeed job scraper → Google Sheets.
+
+## Setup
+1. `pip install -r requirements.txt`
+2. Place `credentials.json` (Google Sheets API OAuth)
+3. Edit `config.json`
+4. `python main.py`
+
+First run authorizes Google access.
