@@ -1,1 +1,8 @@
-
+// JobHawk Pro: Mission Configuration
+{
+  "search_term": "data analyst",
+  "location": "remote",
+  "max_jobs": 15,
+  "sheet_name": "JobHawk Pro - Active Targets",
+  "sheet_range": "Sheet1!A1"
+}
